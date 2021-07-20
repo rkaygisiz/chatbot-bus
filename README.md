@@ -7,4 +7,5 @@ It obeys the language rules by separating all the words I have determined in the
 also
 We added an ontology study to the project for price information.
 
-![Ekran Görüntüsü (271)](https://user-images.githubusercontent.com/74117767/126392256-ce5ed29b-99f5-4de5-a3c2-e8b3fa50d8b8.png)
+![Ekran Görüntüsü (271)](https://user-images.githubusercontent.com/74117767/126392370-8db9b475-d6d6-43d0-b456-4dabad6f6c41.png)
+
