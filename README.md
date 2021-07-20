@@ -1,5 +1,5 @@
 # chatbot-bus
-Chatbot for Bus Services
+-Chatbot for Bus Services-
 My goal in this project is to create a chatbot for bus services. I worked on Prolog Programming Language and Python in the project.
 Chatbot now gives correct answers to the questions asked.
 Linguistics
